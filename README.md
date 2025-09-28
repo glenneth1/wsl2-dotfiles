@@ -7,7 +7,7 @@ This repository contains my personal dotfiles for WSL2 Ubuntu, managed using an 
 ### On a New WSL2 Machine
 ```bash
 # Clone this repository
-git clone https://github.com/YOUR_USERNAME/wsl2-dotfiles.git ~/.files
+git clone git@github.com:glenneth1/wsl2-dotfiles.git ~/.files
 cd ~/.files
 
 # Deploy all configurations using stash
