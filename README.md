@@ -79,6 +79,11 @@ This dotfiles setup is optimized for:
 - Development workflow with Emacs + Lisp
 - Modern shell experience with ZSH + Powerlevel10k
 
+## Links
+
+- **Stash Repository**: https://codeberg.org/glenneth/stash
+- **This Dotfiles Repository**: https://github.com/glenneth1/wsl2-dotfiles
+
 ---
 
 **Powered by Stash** - A GNU Stow replacement in Guile Scheme
